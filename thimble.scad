@@ -2,7 +2,7 @@ finger_hole = [17, 15];
 round_length = 17;
 tube_length = 10;
 thickness = 1;
-rugged_size = 0.5;
+rugged_size = 0.8;
 
 module _end_of_customizer_vars() {}
 
