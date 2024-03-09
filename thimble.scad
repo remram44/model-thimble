@@ -78,6 +78,8 @@ module tube_part() {
     }
 }
 
-round_part();
-rugged();
-tube_part();
+rotate([90, 0, 0]) {
+    round_part();
+    rugged();
+    tube_part();
+}
