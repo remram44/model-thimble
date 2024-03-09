@@ -1,0 +1,12 @@
+{
+    "parameterSets": {
+        "wider": {
+            "finger_hole": "[19, 17]",
+            "round_length": "17",
+            "rugged_size": "0.8",
+            "thickness": "1",
+            "tube_length": "10"
+        }
+    },
+    "fileFormatVersion": "1"
+}
